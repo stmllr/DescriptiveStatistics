@@ -1,0 +1,21 @@
+{
+    "name": "stmllr/descriptive-statistics",
+    "description": "Basic set of methods to calculate descriptive statistics in PHP. Stuff that PHP should rather deliver.",
+    "homepage": "https://stmllr.net/",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Steffen Müller",
+            "email": "dev@stmllr.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.4"
+    },
+    "autoload": {
+        "psr-4": { "Stmllr\\DescriptiveStatistics\\": "src/" }
+    }
+}
