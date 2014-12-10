@@ -12,7 +12,7 @@ Calculation methods:
 
 ## Homepage
 
-https://github.com/stmllr/descriptive-statistics
+https://github.com/stmllr/DescriptiveStatistics
 
 ## Install
 
@@ -40,7 +40,7 @@ phpunit
 
 ## Contributing
 
-Send pull requests via https://github.com/stmllr/stmllr/descriptive-statistics
+Send pull requests via https://github.com/stmllr/DescriptiveStatistics
 
 ## License
 
