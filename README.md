@@ -10,16 +10,22 @@ Calculation methods:
 * variance
 * standard derivation
 
-# Homepage
+## Homepage
 
-https://github.com/stmllr/stmllr/descriptive-statistics
+https://github.com/stmllr/descriptive-statistics
 
 ## Install
+
+Via Git
+
+``` bash
+$ git clone https://github.com/stmllr/DescriptiveStatistics.git
+```
 
 Via Composer
 
 ``` bash
-$ composer require stmllr/statistical-computing
+$ composer require stmllr/descriptive-statistics
 ```
 
 ## Usage
