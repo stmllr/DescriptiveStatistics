@@ -1,11 +1,12 @@
 # Descriptive Statistics
 
 Basic set of methods to calculate descriptive statistics in PHP. Stuff that PHP should rather deliver.
+This was created in the context of a code kata. Don't use it for calculating statistics in real life. Instead, [use R](http://www.r-project.org/).
 
 Calculation methods:
 
 * mean
-* modal
+* median
 * variance
 * standard derivation
 
